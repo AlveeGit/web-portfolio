@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "css": "css"
+    },
+    "emmet.preferences": {
+        
+    
+    }
+}
